@@ -1,0 +1,4 @@
+ Problem: In SUEWS_OHM.f95: bad value for qn1 found during qs calculation.
+ ERROR! Program stopped: Bad input for OHM/AnOHM storage heat flux calculation. Check qn, qn_Sn, qf for issues.
+  Value:       NaN
+ 21
